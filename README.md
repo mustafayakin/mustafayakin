@@ -41,5 +41,5 @@ My name is Mustafa. I'm a computer engineering Student.
 
 
 [website]: https://google.com
-[instagram]: https://instagram.com/myakn55
-[linkedin]: https://linkedin.com/in/mustafayakin
+[instagram]: https://instagram.com/mustafa.yakn
+[linkedin]: https://linkedin.com/in/mustafa-yakın-55b218181/
